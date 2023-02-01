@@ -7,9 +7,9 @@
 ## Requests
 - Login to user
 - Create a new agent
+- Deposit money from SYSTEM to agent account.
 - Create a new customer
 - Search the newly created user by phone number.
-- Deposit money from SYSTEM to agent account.
 - Deposit money from agent account to customer account.
 - Customer withdraw money from agent.
 - Delete the user
